@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Dreamscape event management",
+    "imageSrc": "projects/emc.png",
+    "description": "This is a frontent project made for an event management company.",
+    "skills": ["Js", "CSS"],
+    "source": "https://github.com/bakhtawar-1/task1/blob/main/landing_pg.html"
+  },
+  {
+    "title": "Snake munch game",
+    "imageSrc": "projects/snake.png",
+    "description": "I created a Snake game, implementing classic gameplay with modern features.",
+    "skills": ["CSS", "Vanilla JS"],
+    "source": "https://github.com/bakhtawar-1/snake-game"
+  }
+]
